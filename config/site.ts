@@ -3,7 +3,7 @@ export type SiteConfig = typeof siteConfig;
 export const siteConfig = {
   name: "Nicolas Portfolio",
   description: "Nicolas Frazao portfolio, created to showcase my code skills, build with nextJS.",
-  
+
   navItems: [
     {
       label: "Home",
@@ -64,6 +64,6 @@ export const siteConfig = {
     github: "https://github.com/Nicolasfrazao",
     linkedin: "https://www.linkedin.com/in/nicolas-fraz%C3%A3o-b6591225b/",
     discord: "https://discord.gg/rtkH6d22",
-    sponsor: "patreon.com/NFDev",
+    sponsor: "https://patreon.com/NFDev",
   },
 };
