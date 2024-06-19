@@ -109,7 +109,7 @@ export const Navbar = () => {
             startContent={<TelegramIcon className="text-danger" />}
             variant="flat"
           >
-            Send a message
+            Send me a message
           </Button>
         </NavbarItem>
       </NavbarContent>

@@ -5,21 +5,14 @@ export const siteConfig = {
   description: "Nicolas Frazao portfolio, created to showcase my code skills, build with nextJS.",
 
   navItems: [
+
     {
-      label: "Home",
-      href: "/",
+      label: "Projects",
+      href: "/projects",
     },
     {
-      label: "Docs",
-      href: "/docs",
-    },
-    {
-      label: "Pricing",
-      href: "/pricing",
-    },
-    {
-      label: "Blog",
-      href: "/blog",
+      label: "Certifications",
+      href: "/certifications",
     },
     {
       label: "About",
